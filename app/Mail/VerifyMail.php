@@ -34,6 +34,6 @@ class VerifyMail extends Mailable
      */
     public function build()
     {
-        return $this->view('auth.email-verification')->subject("Verifikasi email pendaftaran ICT2019")->with(['tim' => $this->tim, 'verifyTim' => $this->verifyTim]);
+        return $this->view('auth.email-verification')->subject("Verifikasi email pendaftaran ICT 2022")->with(['tim' => $this->tim, 'verifyTim' => $this->verifyTim]);
     }
 }

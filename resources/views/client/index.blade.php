@@ -8,7 +8,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2019"></a>
+        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -29,7 +29,7 @@
   ============================-->
   <section id="intro">
     <div class="intro-container wow fadeIn">
-      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2019<br><span>Innovation</span> of Technology</h1>
+      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2022<br><span>Innovation</span> of Technology</h1>
 
       <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a> -->
@@ -40,25 +40,25 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/sponsor-logo.svg')}}" class="img-fluid" alt="">
+              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/sponsor-logo.svg')}}" class="img-fluid" alt="">
+              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/sponsor-logo.svg')}}" class="img-fluid" alt="">
+              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/sponsor-logo.svg')}}" class="img-fluid" alt="">
+              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
           </div>
 
@@ -77,7 +77,7 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-6">
-            <h2>Gebyar ICT 2019</h2>
+            <h2>Gebyar ICT 2022</h2>
             <p>Gebyar <span> Information and Communication Technology</span> (ICT) merupakan event tahunan yang
               diselenggarakan oleh Himpunan Mahasiswa Jurusan Teknik Informatika Universitas Islam Negeri Maulana Malik
               Ibrahim Malang sebagai sarana untuk menyalurkan inovasi, kreativitas dan keterampilan mahasiswa khususnya
@@ -199,15 +199,15 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade" id="apps">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>28 Ags 2019</time></div>
+              <div class="col-md-2"><time>28 Ags 2022</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
-                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar ICT 2019 sampai tanggal 12 Oktober</p>
+                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar ICT 2022 sampai tanggal 12 Oktober</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>12 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Closing Registration and Submit File</h4>
                 <p>Registrasi, submit proposal dan unggah prototype terakhir pukul 23.59</p>
@@ -215,15 +215,15 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>18 Okt 2019</time></div>
+              <div class="col-md-2"><time>18 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Finalist Announcement</h4>
-                <p>Finalis akan diumumkan di website Gebyar ICT 2019</p>
+                <p>Finalis akan diumumkan di website Gebyar ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Okt 2019</time></div>
+              <div class="col-md-2"><time>26 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Final Day and Winner Announcement</span></h4>
                 <p>Finalis akan melakukan presentasi kepada juri, lalu pengumuman juara</p>
@@ -237,15 +237,15 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade show active" id="cinema">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Ags 2019</time></div>
+              <div class="col-md-2"><time>26 Ags 2022</time></div>
               <div class="col-md-10">
                 <h4>Registration and Submit Film</h4>
-                <p>Pendaftaran dan submit film di website Grbyar ICT 2019 sampai 12 Oktober 2019</p>
+                <p>Pendaftaran dan submit film di website Grbyar ICT 2022 sampai 12 Oktober 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>12 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Closing Registration and Submit Film</h4>
                 <p>Registrasi ditutup pada pukul 23.59</p>
@@ -253,7 +253,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>19 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Finalist Announcement</span></h4>
                 <p>Pengumuman finalis akan disampaikan di website dan email</p>
@@ -261,7 +261,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>27 Okt 2019</time></div>
+              <div class="col-md-2"><time>27 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Final Day and Winner Announcement</h4>
                 <p>Finalis akan mengikuti babak final dan penjurian</p>
@@ -275,15 +275,15 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="drone">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>8 Sep 2019</time></div>
+              <div class="col-md-2"><time>8 Sep 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Registrasi dilaksanakan pada 8 September - 12 Oktober secara online di Website Gebyar ICT 2019</p>
+                <p>Registrasi dilaksanakan pada 8 September - 12 Oktober secara online di Website Gebyar ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>12 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Closing Online Registration</span></h4>
                 <p>Registrasi Online ditutup</p>
@@ -291,7 +291,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>19 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>OTS Registration</span></h4>
                 <p>Registrasi On The Spot dilaksanakan Maksimal pukul 07.00</p>
@@ -299,7 +299,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>19 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Competition Day</span></h4>
                 <p>Pelaksanaan Micro Drone Race dan pengumuman pemenang.</p>
