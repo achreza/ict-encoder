@@ -28,7 +28,7 @@ Route::get('/innovative-app-idea', 'HomeController@iai')->name('home.iai');
 Route::get('/micro-drone-race', 'HomeController@drone')->name('home.drone');
 
 // Auth
-Route::group(['middleware' => 'guest'], function() {
+Route::group(['middleware' => 'guest'], function () {
 	// Route::get('/login', [AuthController::class, 'login'])->name('auth.login');
 	// Route::get('/login', [AuthController::class, 'loginPost']);
 	// Route::get('/login-admin', [AuthController::class, 'loginAdmin'])->name('auth.loginAdmin');
@@ -48,9 +48,9 @@ Route::get('/peserta/verify/{token}', 'AuthController@verifyTim')->name('auth.em
 // Admin Auth
 
 // Dashboard
-Route::group(['middleware' => 'auth'], function() {
-	Route::group(['prefix' => 'dashboard'], function() {
-		Route::group(['middleware' => 'tim','prefix' => 'peserta'], function() {
+Route::group(['middleware' => 'auth'], function () {
+	Route::group(['prefix' => 'dashboard'], function () {
+		Route::group(['middleware' => 'tim', 'prefix' => 'peserta'], function () {
 			Route::get('/', 'DashboardController@homePeserta')->name('dashboard.peserta');
 			Route::get('/konfirmasi-pembayaran', 'DashboardController@konfirmasiPembayaran')->name('dashboard.peserta.konfirmasi-pembayaran');
 			Route::post('/konfirmasi-pembayaran', 'DashboardController@storeKonfirmasiPembayaran');
@@ -67,17 +67,17 @@ Route::group(['middleware' => 'auth'], function() {
 			Route::post('/link-prototype', 'DashboardController@storelinkPrototype');
 		});
 
-		Route::group(['middleware' => 'admin','prefix' => 'admin'], function() {
+		Route::group(['middleware' => 'admin', 'prefix' => 'admin'], function () {
 			Route::get('/', 'AdminController@index')->name('dashboard.admin');
-			
+
 			Route::get('/cinematography', 'LombaController@cinema')->name('dashboard.cinema');
 			Route::get('/innovative-app-idea', 'LombaController@iai')->name('dashboard.iai');
 			Route::get('/micro-drone-race', 'LombaController@mdr')->name('dashboard.mdr');
+			Route::get('/persyaratan', 'LombaController@persyaratan')->name('dashboard.persyaratan');
 
 			Route::get('/konfirmasi-pembayaran/{id}', 'PembayaranController@konfirmasi')->name('konfirmasi');
 			Route::get('/konfirmasi-batal/{id}', 'PembayaranController@konfirmasiBatal')->name('konfirmasi.batal');
 			Route::get('/tim/{id}', 'PesertaController@detail')->name('peserta.detail');
-			
 		});
 	});
 });

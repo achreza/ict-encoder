@@ -56,6 +56,9 @@
                     <li>
                         <a href="{{ route('dashboard.mdr') }}"><i class="menu-icon ti-user"></i>Peserta MDR</a>
                     </li>
+                    <li>
+                        <a href="{{ route('dashboard.persyaratan') }}"><i class="menu-icon ti-eye"></i>Persyaratan Lomba</a>
+                    </li>
                 </ul>
                 </div><!-- /.navbar-collapse -->
             </nav>
