@@ -38,7 +38,9 @@
         <p class="mb-2 pb-0 mt-4">With :</p>
         <div class="row no-gutters supporters-wrap clearfix">
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
+          //IKI SPONSORRRRRR
+
+          {{-- <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
               <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
@@ -60,7 +62,7 @@
             <div class="supporter-logo">
               <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
-          </div>
+          </div> --}}
 
         </div>
       </div>}
