@@ -41,8 +41,10 @@
 
               <p>Informasi Lebih Lanjut :</p>
               <ul class="contact-person">
-                <li><a href="https://wa.me/6285707799317">085707799317 (Adam)</a></li>
-                <li><a href="https://wa.me/6285648375667">085648375667 (Rofi)</a></li>
+                
+                <li><a href="https://wa.me/6281233428571">081233428571 (Shinta)</a></li>
+                <li><a href="https://wa.me/6281235481791">081235481791 (Hisam)</a></li>
+                <li><a href="https://wa.me/6285232310544">085232310544 (Reza)</a></li>
               </ul>
 
             </div>

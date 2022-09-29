@@ -41,8 +41,9 @@
 
               <p>Informasi Lebih Lanjut :</p>
               <ul class="contact-person">
-                <li><a href="https://wa.me/6285608887368">085608887368 (Lexy)</a></li>
-                <li><a href="https://wa.me/62895396121350">0895396121350 (Afif)</a></li>
+                <li><a href="https://wa.me/6285731582564">085731582564 (Alfina)</a></li>
+                <li><a href="https://wa.me/6287755667545">087755667545 (Ibni)</a></li>
+                <li><a href="https://wa.me/6285748887864">085748887864 (Najah)</a></li>
               </ul>
             </div>
             <a href="{{URL::to('juknis/Cinematography.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
