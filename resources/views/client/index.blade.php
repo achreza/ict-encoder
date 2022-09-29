@@ -188,7 +188,7 @@
             <a class="nav-link active" href="#cinema" role="tab" data-toggle="tab">Cinematography</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#apps" role="tab" data-toggle="tab">Innovate Apps Idea</a>
+            <a class="nav-link" href="#apps" role="tab" data-toggle="tab">Innovate Apps </a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#drone" role="tab" data-toggle="tab">Micro Drone Race</a>
@@ -312,7 +312,7 @@
               <div class="col-md-2"><time>13 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Competition Day</span></h4>
-                <p>Pelaksanaan Micro Drone Race dan pengumuman pemenang.</p>
+                <p>Pelaksanaan  Drone Race dan pengumuman pemenang.</p>
               </div>
             </div>
           </div>
