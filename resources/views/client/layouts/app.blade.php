@@ -4,7 +4,7 @@
 <head>
 
   <meta charset="utf-8">
-  <title>ICT 2019 - Innovation of Technology</title>
+  <title>ICT 2022- Better Future Lets Fly Higher</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -38,7 +38,7 @@
             <ul>
               <li><i class="fa fa-angle-right"></i> <a href="http://informatika.uin-malang.ac.id/">Jurusan Teknik
                   Informatika</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="http://himatif-encoder.or.id">HMJ Teknik
+              <li><i class="fa fa-angle-right"></i> <a href="https://informatika.uin-malang.ac.id/hmps/">HMPS Teknik
                   Informatika</a>
               </li>
             </ul>
@@ -64,7 +64,7 @@
               <a href="https://www.facebook.com/Gebyar-ICT-2019-103520024331885/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/ict_encoder/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="mailto:ict.encoder@gmail.com" class="gmail"><i class="fa fa-envelope"></i></a>
-              <a href="https://wa.me/6281291683445" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
+              <a href="https://wa.me/62859106952197" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>
             </div>
 
           </div>
@@ -75,7 +75,7 @@
 
     <div class="container">
       <div class="copyright">
-        &copy; Copyright <strong>Gebyar ICT 2019</strong>. All Rights Reserved
+        &copy; Copyright <strong>Gebyar ICT 2022</strong>. All Rights Reserved
       </div>
       <div class="credits">
         <!--
@@ -85,7 +85,7 @@
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Thetimeline
         -->
         Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> --
-        Edited by <a href="http://himatif-encoder.or.id/">Himatif Encoder</a>
+        Edited by <a href="https://informatika.uin-malang.ac.id/hmps/">Himatif Encoder</a>
       </div>
     </div>
   </footer><!-- #footer -->
