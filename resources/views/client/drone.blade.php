@@ -42,6 +42,8 @@
               <p>Informasi Lebih Lanjut :</p>
               <ul class="contact-person">
                 <li><a href="https://wa.me/6285859189976 ">085859189976  (Fira)</a></li>
+                <li><a href="https://wa.me/6283848056114 ">083848056114  (Indah)</a></li>
+                <li><a href="https://wa.me/6285267375638 ">085267375638 (Ridho)</a></li>
               </ul>
             </div>
             <a href="{{URL::to('juknis/Micro%20Drone%20Race%20Competition.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
