@@ -8,7 +8,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="i{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2019"></a>
+        <a href="i{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -69,34 +69,42 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Ags 2019</time></div>
+              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Registration and Submit Film</h4>
-                <p>Pendaftaran dan submit film di website Grbyar ICT 2019 sampai 12 Oktober 2019</p>
+                <h4>Online Registration</h4>
+                <p>Pendaftaran Cinematography di website Gebyar Gebyar ICT 2022 sampai 22 Oktober 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Registration and Submit Film</h4>
-                <p>Registrasi ditutup pada pukul 23.59</p>
+                <h4>Technical Meeting</h4>
+                <p>Technical Meeting Tahap Penyisihan</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>24 Okt - 17 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Finalist Announcement</span></h4>
-                <p>Pengumuman finalis akan disampaikan di website dan email</p>
+                <h4>Submit Film</span></h4>
+                <p>Peserta submit film terakhir tanggal 17 November 2022 pukul 23.59 WIB</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>27 Okt 2019</time></div>
+              <div class="col-md-2"><time>19 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Finalist Announcement</h4>
+                <p>Finalis akan diumumkan di Website Gebyar ICT 2022</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>26 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Final Day and Winner Announcement</h4>
-                <p>Finalis akan mengikuti babak final dan penjurian</p>
+                <p>Finalis akan melakukan presentasi kepada juri lalu pengumuman juara</p>
               </div>
             </div>
 
@@ -139,7 +147,7 @@
                   <p>
                     Boleh, peserta diperbolehkan tim yang maksimal berjumlah 3 orang ataupun perseorangan. Jika peserta
                     mendaftar secara individu, maka peserta harus mengisi judul film, nama tim, dan hanya nama ketua
-                    saja. Kemudias melakukan pembayaran.
+                    saja. kemudian melakukan pembayaran.
                   </p>
                 </div>
               </li>
@@ -148,7 +156,7 @@
                 <a data-toggle="collapse" href="#faq3" class="collapsed">Apakah peseta diwajibkan untuk mengupload poster? Dan, dimana peserta harus mengupload poster?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq3" class="collapse" data-parent="#faq-list">
                   <p>
-                      Iya wajib, sebagai bukti bahwa peserta serius dalam mengikuti lomba, kemudian cara menguploadnya di instagram dan ketua tim wajib untuk mengupload.
+                      Iya wajib, sebagai bukti bahwa peserta serius dalam mengikuti lomba, kemudian cara menguploadnya di instagram masing-masing anggota dengan menandai akun instagram @ict_encoder.
                   </p>
                 </div>
               </li>

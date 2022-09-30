@@ -36,7 +36,7 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Visit Other Websites</h4>
             <ul>
-              <li><i class="fa fa-angle-right"></i> <a href="http://informatika.uin-malang.ac.id/">Jurusan Teknik
+              <li><i class="fa fa-angle-right"></i> <a href="http://informatika.uin-malang.ac.id/">Program Studi Teknik
                   Informatika</a></li>
               <li><i class="fa fa-angle-right"></i> <a href="https://informatika.uin-malang.ac.id/hmps/">HMPS Teknik
                   Informatika</a>
@@ -51,7 +51,7 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              Sekertariat HMJ Teknik Informatika,<br>
+              Sekertariat HMPS Teknik Informatika,<br>
               Gedung Student Center lt. 1,<br>
               UIN Maulana Malik Ibrahim Malang,<br>
               JL. Gajayana No. 50, Dinoyo,<br>
@@ -61,7 +61,7 @@
             </p>
 
             <div class="social-links">
-              <a href="https://www.facebook.com/Gebyar-ICT-2019-103520024331885/" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="https://www.facebook.com/Gebyar-ICT-2022-103520024331885" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a>
               <a href="https://www.instagram.com/ict_encoder/" target="_blank" class="instagram"><i class="fa fa-instagram"></i></a>
               <a href="mailto:ict.encoder@gmail.com" class="gmail"><i class="fa fa-envelope"></i></a>
               <a href="https://wa.me/62859106952197" target="_blank" class="whatsapp"><i class="fa fa-whatsapp"></i></a>

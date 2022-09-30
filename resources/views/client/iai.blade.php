@@ -8,7 +8,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2019"></a>
+        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar Gebyar ICT 2022"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -71,34 +71,42 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>28 Ags 2019</time></div>
+              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Registration</h4>
-                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar ICT 2019 sampai tanggal 12 Oktober</p>
+                <h4>Online Registration</h4>
+                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar Gebyar ICT 2022 sampai tanggal 12 Oktober</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Registration and Submit File</h4>
-                <p>Registrasi, submit proposal dan unggah prototype terakhir pukul 23.59</p>
+                <h4>Technical Meeting</h4>
+                <p>Technical Meeting Tahap Penyisihan</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>18 Okt 2019</time></div>
+              <div class="col-md-2"><time>24 Okt - 18 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Finalist Announcement</h4>
-                <p>Finalis akan diumumkan di website Gebyar ICT 2019</p>
+                <h4>Submit Proposal and File Project</h4>
+                <p>Peserta submit file proposal dan hasil projek masing-masing pada Website Gebyar ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Okt 2019</time></div>
+              <div class="col-md-2"><time>19 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Finalist Announcement</span></h4>
+                <p>Finalis akan diumumkan di Website Gebyar ICT 2022</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>26 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Final Day and Winner Announcement</span></h4>
-                <p>Finalis akan melakukan presentasi kepada juri, lalu pengumuman juara</p>
+                <p>Finalis akan melakukan presentasi kepada juri lalu pengumuman juara</p>
               </div>
             </div>
 
@@ -140,7 +148,7 @@
                   jika tidak memiliki tim?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq2" class="collapse" data-parent="#faq-list">
                   <p>
-                    Iya, peserta diperbolehkan tim yang maksimal berjumlah 3 orang ataupun perseorangan
+                    Iya bisa, peserta diperbolehkan tim yang maksimal berjumlah 3 orang ataupun perseorangan
                   </p>
                 </div>
               </li>
@@ -192,7 +200,7 @@
                   platform selain Web atau Mobile?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq6" class="collapse" data-parent="#faq-list">
                   <p>
-                    Tidak, Pada tahun ini platform selain Web dan Mobile (android atau ios) tidak diperbolehkan
+                    Tidak diperbolehkan, pada tahun ini platform yang digunakan hanya Web dan Mobile (android atau ios)
                   </p>
                 </div>
               </li>
@@ -204,7 +212,7 @@
                   <p>
                     Terdapat 2 tahapan dalam kompetisi Innovative App Idea, pertama adalah tahap submisi ide, peserta
                     diharapkan mengirimkan file proposal serta bentuk prototype aplikasi yang sudah dibuat pada halaman
-                    peserta ICT 2019, kedua adalah tahap finalis dimana para peserta finalis akan mempresentasikan hasil
+                    peserta Gebyar ICT 2022, kedua adalah tahap finalis dimana para peserta finalis akan mempresentasikan hasil
                     prototype aplikasi dihadapan juri.
                   </p>
                 </div>

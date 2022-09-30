@@ -8,7 +8,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2019"></a>
+        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -41,8 +41,8 @@
 
               <p>Informasi Lebih Lanjut :</p>
               <ul class="contact-person">
-                <li><a href="https://wa.me/6285859189976 ">085859189976  (Fira)</a></li>
-                <li><a href="https://wa.me/6283848056114 ">083848056114  (Indah)</a></li>
+                <li><a href="https://wa.me/6285859189976 ">085859189976 (Fira)</a></li>
+                <li><a href="https://wa.me/6283848056114 ">083848056114 (Indah)</a></li>
                 <li><a href="https://wa.me/6285267375638 ">085267375638 (Ridho)</a></li>
               </ul>
             </div>
@@ -69,23 +69,23 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>8 Sep 2019</time></div>
+              <div class="col-md-2"><time>1 Sep - 5 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Registrasi dilaksanakan pada 8 September - 12 Oktober secara online di Website Gebyar ICT 2019</p>
+                <p>Pendaftaran Micro Drone Race dengan melakukan input ke Website Gebyar ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2019</time></div>
+              <div class="col-md-2"><time>6 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Online Registration</span></h4>
-                <p>Registrasi Online ditutup</p>
+                <h4>Closing Online Registration & Technical Meeting</span></h4>
+                <p>Peserta Micro Drone Race melakukan Technical Meeting</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>13 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>OTS Registration</span></h4>
                 <p>Registrasi On The Spot dilaksanakan Maksimal pukul 07.00</p>
@@ -93,7 +93,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2019</time></div>
+              <div class="col-md-2"><time>13 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Competition Day</span></h4>
                 <p>Pelaksanaan Micro Drone Race dan pengumuman pemenang.</p>
@@ -125,7 +125,7 @@
                   <i class="fa fa-minus-circle"></i></a>
                 <div id="faq1" class="collapse" data-parent="#faq-list">
                   <p>
-                    Benar, Drone yang dibawa dan siap dikarantina (seleksi dimensi) harus sudah siap.
+                    Benar, Drone yang dibawa sudah dirakit dan siap dikarantina (seleksi dimensi).
                   </p>
                 </div>
               </li>

@@ -201,7 +201,7 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade" id="apps">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>30 Sept - 22 Okt 2022</time></div>
+              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
                 <p>Pendaftaran Innovation App, dengan melakukan input ke web ICT 2022</p>
@@ -247,10 +247,10 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade show active" id="cinema">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>30 Sept - 22 Okt 2022</time></div>
+              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
-                <p>Pendaftaran Cinemato , dengan melakukan input ke web ICT 2022 sampai 22 Oktober 2022</p>
+                <p>Pendaftaran Cinematography , dengan melakukan input ke web ICT 2022 sampai 22 Oktober 2022</p>
               </div>
             </div>
 
@@ -285,10 +285,10 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="drone">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>30 Sept - 5 Nov 2022</time></div>
+              <div class="col-md-2"><time>1 Okt - 5 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Registration</h4>
-                <p>Pendaftaran Micro Drone, dengan melakukan input ke web ICT 2022 sampai 5 November 2022</p>
+                <p>Pendaftaran Micro Drone Race, dengan melakukan input ke web ICT 2022 sampai 5 November 2022</p>
               </div>
             </div>
 
