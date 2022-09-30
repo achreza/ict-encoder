@@ -78,7 +78,7 @@
                         @csrf
                         
                         <div class="form-group">
-                            <label>Emai</label>
+                            <label>email</label>
                             <input type="email" class="form-control" placeholder="Email" name="email" required="">
                         </div>
                         <div class="form-group">
