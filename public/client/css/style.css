@@ -9,24 +9,24 @@
 # General
 --------------------------------------------------------------*/
 *{
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 body {
   background: #fff;
   color: #2f3138;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 a {
-  color: #F0524B;
+  color: #242164;
   transition: 0.5s;
 }
 
 a:hover,
 a:active,
 a:focus {
-  color: #f8234a;
+  color: #6560c4;
   outline: none;
   text-decoration: none;
 }
@@ -43,7 +43,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -76,7 +76,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #F0524B;
+  background: #242164;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -118,7 +118,7 @@ h6 {
   display: block;
   width: 60px;
   height: 5px;
-  background: #F0524B;
+  background: #242164;
   bottom: 0;
   left: calc(50% - 25px);
 }
@@ -177,14 +177,14 @@ h6 {
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
 }
 
 #header #logo h1 span {
-  color: #F0524B;
+  color: #242164;
 }
 
 #header #logo h1 a,
@@ -275,7 +275,7 @@ h6 {
   text-decoration: none;
   display: inline-block;
   color: rgba(202, 206, 221, 0.8);
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 600;
   font-size: 14px;
   outline: none;
@@ -297,7 +297,7 @@ h6 {
   height: 2px;
   bottom: 0;
   left: 0;
-  background-color: #F0524B;
+  background-color: #242164;
   visibility: hidden;
   transition: all 0.3s ease-in-out 0s;
 }
@@ -311,10 +311,10 @@ h6 {
 
 .nav-menu li.login a {
   color: #fff;
-  background: #F0524B;
+  background: #242164;
   padding: 7px 22px;
   border-radius: 50px;
-  border: 2px solid #F0524B;
+  border: 2px solid #242164;
   transition: all ease-in-out 0.3s;
   font-weight: 500;
   margin-left: 8px;
@@ -355,7 +355,7 @@ h6 {
 }
 
 .nav-menu ul li:hover>a {
-  background: #F0524B;
+  background: #242164;
   color: #fff;
 }
 
@@ -422,7 +422,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #F0524B;
+  color: #242164;
 }
 
 #mobile-nav ul li li {
@@ -439,11 +439,11 @@ h6 {
 }
 
 #mobile-nav ul .menu-has-children i.fa-chevron-up {
-  color: #F0524B;
+  color: #242164;
 }
 
 #mobile-nav ul .menu-item-active {
-  color: #F0524B;
+  color: #242164;
 }
 
 #mobile-body-overly {
@@ -519,14 +519,14 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro h1 {
   color: #fff;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 56px;
   font-weight: 900;
   text-transform: uppercase;
 }
 
 #intro h1 span {
-  color: #F0524B;
+  color: #242164;
 }
 
 #intro p {
@@ -539,7 +539,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro .play-btn {
   width: 94px;
   height: 94px;
-  background: radial-gradient(#F0524B 50%, rgba(101, 111, 150, 0.15) 52%);
+  background: radial-gradient(#242164 50%, rgba(101, 111, 150, 0.15) 52%);
   border-radius: 50%;
   display: block;
   position: relative;
@@ -586,7 +586,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #F0524B;
+  border-left: 15px solid #242164;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -611,7 +611,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .intro-btn {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
@@ -624,16 +624,16 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #F0524B;
+  border: 2px solid #242164;
 }
 
 #intro .intro-btn:hover {
-  background: #F0524B;
+  background: #242164;
   color: #fff;
 }
 
 .ict-btn {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
@@ -643,14 +643,14 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  color: #F0524B;
+  color: #242164;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #F0524B;
+  border: 2px solid #242164;
 }
 
 .ict-btn:hover {
-  background: #F0524B;
+  background: #242164;
   color: #fff;
 }
 
@@ -725,7 +725,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   margin-bottom: 20px;
   color: #fff;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 500;
 }
 
@@ -768,7 +768,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #timeline .nav-tabs a.active {
-  background-color: #F0524B;
+  background-color: #242164;
   color: #fff;
 }
 
@@ -941,7 +941,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #F0524B;
+  color: #242164;
 }
 
 #hotels .stars {
@@ -991,7 +991,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .owl-dot.active {
-  background-color: #F0524B;
+  background-color: #242164;
 }
 
 #gallery .gallery-carousel .owl-stage-outer {
@@ -999,7 +999,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #gallery .gallery-carousel .center {
-  border: 6px solid #F0524B;
+  border: 6px solid #242164;
   margin: -10px;
   box-sizing: content-box;
   padding: 4px;
@@ -1072,7 +1072,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   padding: 18px 0;
   display: block;
   position: relative;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 16px;
   line-height: 24px;
   font-weight: 600;
@@ -1091,7 +1091,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #faq #faq-list a.collapse {
-  color: #F0524B;
+  color: #242164;
 }
 
 #faq #faq-list a.collapsed {
@@ -1131,7 +1131,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe p span {
-  color: #F0524B;
+  color: #242164;
 }
 
 #subscribe input {
@@ -1149,7 +1149,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   padding: 9px 25px;
   cursor: pointer;
-  background: #F0524B;
+  background: #242164;
   color: #fff;
   transition: all 0.3s ease;
   outline: none;
@@ -1158,7 +1158,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe button:hover {
-  background: #e0072f;
+  background: #3d38a8;
 }
 
 /*--------------------------------------------------------------
@@ -1170,7 +1170,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .event-detail{
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 600;
   font-size: 14px;
   line-height: 2;
@@ -1182,7 +1182,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .events-btn {
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   font-size: 14px;
   letter-spacing: 1px;
@@ -1192,7 +1192,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   transition: 0.5s;
   line-height: 1;
   margin: 10px;
-  background: #F0524B;
+  background: #242164;
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
@@ -1243,13 +1243,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #F0524B;
+  background-color: #242164;
   border: 0;
   color: #fff;
 }
 
 #events .card .btn:hover {
-  background-color: #e0072f;
+  background-color: #322d85;
 }
 
 #events #buy-ticket-modal input,
@@ -1262,13 +1262,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 50px;
   padding: 10px 40px;
   transition: all 0.2s;
-  background-color: #F0524B;
+  background-color: #242164;
   border: 0;
   color: #fff;
 }
 
 #events #buy-ticket-modal .btn:hover {
-  background-color: #e0072f;
+  background-color: #3f39a1;
 }
 
 /*--------------------------------------------------------------
@@ -1288,7 +1288,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 48px;
   display: inline-block;
   margin-bottom: 10px;
-  color: #F0524B;
+  color: #242164;
 }
 
 #contact .contact-info address,
@@ -1310,7 +1310,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #F0524B;
+  color: #242164;
 }
 
 #contact .contact-address,
@@ -1320,8 +1320,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #F0524B;
-  border: 1px solid #F0524B;
+  color: #242164;
+  border: 1px solid #242164;
   display: none;
   text-align: center;
   padding: 15px;
@@ -1362,7 +1362,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #F0524B;
+  background: #242164;
   border: 0;
   padding: 10px 40px;
   color: #fff;
@@ -1400,7 +1400,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-weight: 700;
   color: #fff;
 }
@@ -1414,7 +1414,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: 'Quicksand', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   color: #fff;
 }
 
@@ -1434,7 +1434,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #F0524B;
+  background: #242164;
   color: #fff;
 }
 
@@ -1445,7 +1445,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   text-transform: uppercase;
   position: relative;
   padding-bottom: 12px;
-  border-bottom: 2px solid #F0524B;
+  border-bottom: 2px solid #242164;
 }
 
 #footer .footer-top .footer-links {
@@ -1460,7 +1460,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 5px;
-  color: #F0524B;
+  color: #242164;
   font-size: 18px;
 }
 
@@ -1478,7 +1478,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #F0524B;
+  color: #242164;
 }
 
 #footer .footer-top .footer-contact {
@@ -1500,7 +1500,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"] {
-  background: #F0524B;
+  background: #242164;
   border: 0;
   width: 35%;
   padding: 6px 0;
@@ -1511,7 +1511,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #e0072f;
+  background: #38339b;
 }
 
 #footer .copyright {
