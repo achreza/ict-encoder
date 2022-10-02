@@ -526,7 +526,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: #66E49A;
+  color: rgb(102, 129, 228);
+  color: linear-gradient(350deg, rgba(102,228,154,1) 0%, rgba(82,78,167,1) 100%); 
 }
 
 #intro p {
