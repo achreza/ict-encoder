@@ -93,13 +93,13 @@ h6 {
 }
 
 .back-to-top:focus {
-  background: #e0072f;
+  background: #3e3994;
   color: #fff;
   outline: none;
 }
 
 .back-to-top:hover {
-  background: #e0072f;
+  background: #3e3994;
   color: #fff;
 }
 
@@ -160,13 +160,13 @@ h6 {
 }
 
 .header-dark{
-  background: rgba(45, 20, 44, 0.98);
+  background: rgba(12, 24, 66, 0.98);
 }
 
 #header.header-scrolled,
 #header.header-fixed,
 .header-dark {
-  background: rgba(45, 20, 44, 0.98);
+  background: rgba(12, 24, 66, 0.98);
   height: 70px;
   padding: 15px 0;
   transition: all 0.5s;
@@ -486,7 +486,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #intro:before {
   content: "";
-  background: rgba(45, 20, 44, 0.7);
+  background: rgba(20, 32, 45, 0.7);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -697,7 +697,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #about:before {
   content: "";
-  background: rgba(17, 8, 17, 0.8);
+  background: rgba(20, 32, 45, 0.7);
 
   position: absolute;
   bottom: 0;
