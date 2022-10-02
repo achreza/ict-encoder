@@ -8,7 +8,8 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a>
+        {{-- <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a> --}}
+        <a href="{{route('home')}}" class="scrollto">ICT 2022</a>
       </div>
 
       <nav id="nav-menu-container">
