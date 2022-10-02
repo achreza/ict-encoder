@@ -12,4 +12,4 @@
 <link href="{{URL::to('client/lib/venobox/venobox.css')}}" rel="stylesheet">
 <link href="{{URL::to('client/lib/owlcarousel/assets/owl.carousel.min.css')}}" rel="stylesheet">
 <!-- Main Stylesheet File -->
-<link href="{{URL::to('client/css/style.css')}}" rel="stylesheet">
+<link href="{{ asset('client/css/style.css') }}" rel="stylesheet">
