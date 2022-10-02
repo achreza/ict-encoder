@@ -29,7 +29,7 @@
   ============================-->
   <section id="intro">
     <div class="intro-container wow fadeIn">
-      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2022<br><span>Innovation</span> of Technology</h1>
+      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2022<br><span>Better Future</span> Let's Fly Higher</h1>
 
       <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a> -->
