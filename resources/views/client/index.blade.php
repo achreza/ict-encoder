@@ -80,8 +80,8 @@
         <div class="row">
           <div class="col-lg-6">
             <h2>Gebyar ICT 2022</h2>
-            <p>Gebyar <span> Information and Communication Technology</span> (ICT) merupakan event tahunan yang
-              diselenggarakan oleh Himpunan Mahasiswa Jurusan Teknik Informatika Universitas Islam Negeri Maulana Malik
+            <p>Gebyar <span> Information and Communication Technology</span> (ICT) merupakan kompetisi tahunan yang
+              diselenggarakan oleh Himpunan Mahasiswa Program Studi Teknik Informatika Universitas Islam Negeri Maulana Malik
               Ibrahim Malang sebagai sarana untuk menyalurkan inovasi, kreativitas dan keterampilan mahasiswa khususnya
               dan masyarakat Indonesia pada umumnya di bidang teknologi.</p>
           </div>
@@ -188,7 +188,7 @@
             <a class="nav-link active" href="#cinema" role="tab" data-toggle="tab">Cinematography</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#apps" role="tab" data-toggle="tab">Innovate Apps Idea</a>
+            <a class="nav-link" href="#apps" role="tab" data-toggle="tab">Innovation App</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#drone" role="tab" data-toggle="tab">Micro Drone Race</a>

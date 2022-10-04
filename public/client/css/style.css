@@ -8,18 +8,18 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-*{
+* {
   font-family: 'Josefin Sans', sans-serif;
 }
 
 body {
   background: #fff;
-  color: #2f3138;
-    font-family: 'Josefin Sans', sans-serif;
+  color: #ffffff;
+  font-family: 'Josefin Sans', sans-serif;
 }
 
 a {
-  color: #242164;
+  color: #66E49A;
   transition: 0.5s;
 }
 
@@ -99,7 +99,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #3e3994;
+  background: #6560c4;
   color: #fff;
 }
 
@@ -159,7 +159,7 @@ h6 {
   z-index: 997;
 }
 
-.header-dark{
+.header-dark {
   background: rgba(12, 24, 66, 0.98);
 }
 
@@ -355,7 +355,7 @@ h6 {
 }
 
 .nav-menu ul li:hover>a {
-  background: #242164;
+  background: #6560c4;
   color: #fff;
 }
 
@@ -422,7 +422,7 @@ h6 {
 }
 
 #mobile-nav ul li a:hover {
-  color: #242164;
+  color: #6560c4;
 }
 
 #mobile-nav ul li li {
@@ -526,8 +526,10 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro h1 span {
-  color: rgb(102, 129, 228);
-  color: linear-gradient(350deg, rgba(102,228,154,1) 0%, rgba(82,78,167,1) 100%); 
+  background: #66E49A;
+  background: linear-gradient(to top right, #66E49A 0%, #6E7BC7 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 
 #intro p {
@@ -587,7 +589,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #intro .play-btn:hover::after {
-  border-left: 15px solid #242164;
+  border-left: 15px solid #6560c4;
   -webkit-transform: scale(20);
   transform: scale(20);
 }
@@ -730,11 +732,11 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 500;
 }
 
-#about p span{
+#about p span {
   font-style: italic;
 }
 
-.contact-person{
+.contact-person {
   margin-top: -20px;
 }
 
@@ -769,7 +771,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #timeline .nav-tabs a.active {
-  background-color: #242164;
+  background-color: #504d8f;
   color: #fff;
 }
 
@@ -832,7 +834,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #timeline .timeline-item p {
   font-style: italic;
-  color: #152b79;
+  color: #6271a4;
   margin-bottom: 0;
 }
 
@@ -942,7 +944,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels a:hover {
-  color: #242164;
+  color: #6560c4;
 }
 
 #hotels .stars {
@@ -1170,7 +1172,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   margin-top: 20px;
 }
 
-#events .event-detail{
+#events .event-detail {
   font-family: 'Josefin Sans', sans-serif;
   font-weight: 600;
   font-size: 14px;
@@ -1200,7 +1202,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .events-btn:hover {
-  background: #242164;
+  background: #3b369e;
   color: #fff;
 }
 
@@ -1250,7 +1252,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .card .btn:hover {
-  background-color: #322d85;
+  background-color: #6560c4;
 }
 
 #events #buy-ticket-modal input,
@@ -1269,7 +1271,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events #buy-ticket-modal .btn:hover {
-  background-color: #3f39a1;
+  background-color: #6560c4;
 }
 
 /*--------------------------------------------------------------
@@ -1311,7 +1313,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .contact-info a:hover {
-  color: #242164;
+  color: #6560c4;
 }
 
 #contact .contact-address,
@@ -1373,7 +1375,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #e0072f;
+  background: #6560c4;
 }
 
 /*--------------------------------------------------------------
@@ -1435,7 +1437,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .social-links a:hover {
-  background: #242164;
+  background: #6560c4;
   color: #fff;
 }
 
@@ -1479,7 +1481,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-links ul a:hover {
-  color: #242164;
+  color: #6560c4;
 }
 
 #footer .footer-top .footer-contact {
@@ -1512,7 +1514,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #footer .footer-top .footer-newsletter input[type="submit"]:hover {
-  background: #38339b;
+  background: #6560c4;
 }
 
 #footer .copyright {
@@ -1526,7 +1528,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #ddd;
 }
 
-.events-page{
+.events-page {
   margin-top: 150px;
 }
 

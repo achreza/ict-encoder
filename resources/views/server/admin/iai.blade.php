@@ -13,7 +13,7 @@
 	<div class="col-md-12">
 		<div class="card">
 			<div class="card-header">
-				<strong class="card-title">Daftar peserta Innovative App Idea</stronga >
+				<strong class="card-title">Daftar peserta Innovation App</stronga >
 			</div>
 			<div class="card-body">
 				<table class="table table-inverse table-striped">

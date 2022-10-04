@@ -28,7 +28,7 @@
 					<div class="stat-content">
 						<div class="text-left dib">
 							<div class="stat-text">{{$iai}}</span></div>
-							<div class="stat-heading">Innovative App Idea</div>
+							<div class="stat-heading">Innovation App</div>
 						</div>
 					</div>
 				</div>

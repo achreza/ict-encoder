@@ -34,7 +34,7 @@
 
           <div class="col-md-6">
             <div class="details">
-              <h2 class="font-weight-bold">Innovative Apps Idea</h2>
+              <h2 class="font-weight-bold">Innovation App</h2>
               <p>Innovative App Idea adalah kompetisi yang bertujuan menantang para peserta
                 untuk dapat menuangkan ide, inovasi dan strategi bisnis dalam mengembangkan suatu aplikasi dan juga
                 dapat memberi manfaat bagi masyarakat luas melalui fungsionalitasnya berbasis Web atau Mobile</p>
