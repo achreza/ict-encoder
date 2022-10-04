@@ -72,7 +72,7 @@
               <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Pendaftaran Cinematography di website Gebyar Gebyar ICT 2022 sampai 22 Oktober 2022</p>
+                <p>Peserta Innov App melakukan pendaftaran online melalui website ICT</p>
               </div>
             </div>
 
@@ -80,31 +80,39 @@
               <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Technical Meeting</h4>
-                <p>Technical Meeting Tahap Penyisihan</p>
+                <p>Peserta Cinemato melakukan Technical Meeting Tahap Penyisihan secara online</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>24 Okt - 17 Nov 2022</time></div>
+              <div class="col-md-2"><time>24 Okt - 10 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Submit Film</span></h4>
-                <p>Peserta submit film terakhir tanggal 17 November 2022 pukul 23.59 WIB</p>
+                <h4>Submit Film</h4>
+                <p>Peserta submit film pada Website ICT 2022</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>11 Nov - 18 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Penilaian Babak Penyisihan</h4>
+                <p>Film peserta akan dinilai dan diseleksi oleh Juri</p>
               </div>
             </div>
 
             <div class="row timeline-item">
               <div class="col-md-2"><time>19 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Finalist Announcement</h4>
-                <p>Finalis akan diumumkan di Website Gebyar ICT 2022</p>
+                <h4>Finalist Announcement</span></h4>
+                <p>Finalis Cinemato akan diumumkan di Website dan Instagram ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
               <div class="col-md-2"><time>26 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Final Day and Winner Announcement</h4>
-                <p>Finalis akan melakukan presentasi kepada juri lalu pengumuman juara</p>
+                <h4>Final Day</span></h4>
+                <p>Tahap Final, Finalis cinemato akan melakukan presentasi kepada juri</p>
               </div>
             </div>
 
