@@ -62,10 +62,10 @@
             <div class="supporter-logo">
               <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
-          </div> --}}
+          </div> --}
 
         </div>
-      </div>}
+      </div>
       <a href="#events" class="intro-btn scrollto">Enroll Your Team</a>
     </div>
   </section>
