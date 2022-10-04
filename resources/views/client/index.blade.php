@@ -38,7 +38,7 @@
         <p class="mb-2 pb-0 mt-4">With :</p>
         <div class="row no-gutters supporters-wrap clearfix">
 
-          SPONSORS LOGO HERE
+          OPEN SPONSORSHIP
 
           {{-- <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
@@ -201,34 +201,50 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade" id="apps">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>28 Ags 2022</time></div>
+              <div class="col-md-2"><time>1 - 22 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Registration</h4>
-                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar ICT 2022 sampai tanggal 12 Oktober</p>
+                <h4>Online Registration</h4>
+                <p>Pendaftaran online melalui website ICT 2022 </p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2022</time></div>
+              <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Registration and Submit File</h4>
-                <p>Registrasi, submit proposal dan unggah prototype terakhir pukul 23.59</p>
+                <h4>Closing Registration and Technical Meeting</h4>
+                <p>Technical meeting online dan penutupan registrasi terakhir pukul 23.59</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>18 Okt 2022</time></div>
+              <div class="col-md-2"><time>10 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Finalist Announcement</h4>
-                <p>Finalis akan diumumkan di website Gebyar ICT 2022</p>
+                <h4>Submit Proposal and Project</h4>
+                <p>Pengumpulan proposal dan projek di Web ICT 2022 terakhir pukul 23.59 WIB</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Okt 2022</time></div>
+              <div class="col-md-2"><time>19 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Final Day and Winner Announcement</span></h4>
-                <p>Finalis akan melakukan presentasi kepada juri, lalu pengumuman juara</p>
+                <h4>Finalist Announcement</span></h4>
+                <p>Pengumuman finalis akan disampaikan di website ICT 2022</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>20 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Finalist Technical Meeting</span></h4>
+                <p>Finalis melakukan technical meeting sebelum tahap final</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>26 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Final Day</span></h4>
+                <p>Finalis akan mengikuti babak final dan penjurian</p>
               </div>
             </div>
 
@@ -239,33 +255,49 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade show active" id="cinema">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>26 Ags 2022</time></div>
+              <div class="col-md-2"><time>1 - 22 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Registration and Submit Film</h4>
-                <p>Pendaftaran dan submit film di website Grbyar ICT 2022 sampai 12 Oktober 2022</p>
+                <h4>Online Registration</h4>
+                <p>Pendaftaran online melalui website ICT 2022 </p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2022</time></div>
+              <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Registration and Submit Film</h4>
-                <p>Registrasi ditutup pada pukul 23.59</p>
+                <h4>Closing Registration and Technical Meeting</h4>
+                <p>Technical meeting online dan penutupan registrasi terakhir pukul 23.59</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2022</time></div>
+              <div class="col-md-2"><time>10 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Submit Proposal and Project</h4>
+                <p>Pengumpulan proposal dan projek di Web ICT 2022 terakhir pukul 23.59 WIB</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>19 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Finalist Announcement</span></h4>
-                <p>Pengumuman finalis akan disampaikan di website dan email</p>
+                <p>Pengumuman finalis akan disampaikan di website ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>27 Okt 2022</time></div>
+              <div class="col-md-2"><time>20 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Final Day and Winner Announcement</h4>
+                <h4>Finalist Technical Meeting</span></h4>
+                <p>Finalis melakukan technical meeting sebelum tahap final</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
+              <div class="col-md-2"><time>26 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Final Day</span></h4>
                 <p>Finalis akan mengikuti babak final dan penjurian</p>
               </div>
             </div>
@@ -277,23 +309,23 @@
           <div role="tabpanel" class="col-lg-9  tab-pane fade" id="drone">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>8 Sep 2022</time></div>
+              <div class="col-md-2"><time>4 Okt - 5 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Registrasi dilaksanakan pada 8 September - 12 Oktober secara online di Website Gebyar ICT 2022</p>
+                <p>Registrasi dilaksanakan secara online di Website Gebyar ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>12 Okt 2022</time></div>
+              <div class="col-md-2"><time>6 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Closing Online Registration</span></h4>
-                <p>Registrasi Online ditutup</p>
+                <h4>Technical Meeting</span></h4>
+                <p>Peserta drone race melakukan technical meeting secara online</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2022</time></div>
+              <div class="col-md-2"><time>13 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>OTS Registration</span></h4>
                 <p>Registrasi On The Spot dilaksanakan Maksimal pukul 07.00</p>
@@ -301,7 +333,7 @@
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>19 Okt 2022</time></div>
+              <div class="col-md-2"><time>13 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Competition Day</span></h4>
                 <p>Pelaksanaan Micro Drone Race dan pengumuman pemenang.</p>
