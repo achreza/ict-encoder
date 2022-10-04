@@ -26,7 +26,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <img src="{{URL::to('client/img/logo.svg')}}" alt="Gebyar ICT 2019">
+            <img src="{{URL::to('client/img/logo2022.png')}}" alt="Gebyar ICT 2019">
             <p>Gebyar ICT merupakan event tahunan yang diselenggarakan oleh Himpunan Mahasiswa Jurusan Teknik
               Informatika Universitas Islam Negeri Maulana Malik Ibrahim Malang sebagai sarana untuk menyalurkan
               inovasi, kreativitas dan keterampilan mahasiswa khususnya dan masyarakat Indonesia pada umumnya di bidang
