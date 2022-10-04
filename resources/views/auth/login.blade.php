@@ -32,7 +32,7 @@
         .btn-ict {
             margin-top: 20px;
             margin-bottom: 20px;
-            background: #EE4540;
+            background: #3e3994;
             border-radius: 100px;
         }
 

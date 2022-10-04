@@ -74,7 +74,7 @@
               <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Pendaftaran, submit proposal dan unggah prototype ke website Gebyar Gebyar ICT 2022 sampai tanggal 12 Oktober</p>
+                <p>Peserta Innov App melakukan pendaftaran online melalui website ICT</p>
               </div>
             </div>
 
@@ -82,12 +82,12 @@
               <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Technical Meeting</h4>
-                <p>Technical Meeting Tahap Penyisihan</p>
+                <p>Peserta Innov App melakukan Technical Meeting Tahap Penyisihan secara online</p>
               </div>
             </div>
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>24 Okt - 18 Nov 2022</time></div>
+              <div class="col-md-2"><time>24 Okt - 10 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Submit Proposal and File Project</h4>
                 <p>Peserta submit file proposal dan hasil projek masing-masing pada Website Gebyar ICT 2022</p>
@@ -95,18 +95,26 @@
             </div>
 
             <div class="row timeline-item">
+              <div class="col-md-2"><time>11 Nov - 18 Nov 2022</time></div>
+              <div class="col-md-10">
+                <h4>Penilaian Babak Penyisihan</h4>
+                <p>Projek peserta akan dilihat dan dinilai oleh Juri</p>
+              </div>
+            </div>
+
+            <div class="row timeline-item">
               <div class="col-md-2"><time>19 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Finalist Announcement</span></h4>
-                <p>Finalis akan diumumkan di Website Gebyar ICT 2022</p>
+                <p>Finalis Innov App akan diumumkan di Website dan Instagram ICT 2022</p>
               </div>
             </div>
 
             <div class="row timeline-item">
               <div class="col-md-2"><time>26 Nov 2022</time></div>
               <div class="col-md-10">
-                <h4>Final Day and Winner Announcement</span></h4>
-                <p>Finalis akan melakukan presentasi kepada juri lalu pengumuman juara</p>
+                <h4>Final Day</span></h4>
+                <p>Tahap Final, Finalis Innov App akan melakukan presentasi kepada juri</p>
               </div>
             </div>
 
