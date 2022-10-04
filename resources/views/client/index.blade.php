@@ -8,7 +8,7 @@
     <div class="container">
 
       <div id="logo" class="pull-left">
-        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo.svg')}}" alt="" title="Gebyar ICT 2022"></a>
+        <a href="{{route('home')}}" class="scrollto"><img src="{{URL::to('client/img/logo22.png')}}" alt="" title="Gebyar ICT 2022"></a>
       </div>
 
       <nav id="nav-menu-container">
@@ -29,7 +29,7 @@
   ============================-->
   <section id="intro">
     <div class="intro-container wow fadeIn">
-      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2022<br><span>Innovation</span> of Technology</h1>
+      <h1 class="mb-4 pb-0"><span>Gebyar</span> ICT 2022<br><span>Better Future</span> Let's Fly Higher</h1>
 
       <!-- <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video"
         data-autoplay="true"></a> -->
@@ -40,7 +40,7 @@
 
           SPONSORS LOGO HERE
 
-          {-- <div class="col-lg-3 col-md-4 col-xs-6">
+           <!-- <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
               <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
@@ -62,7 +62,7 @@
             <div class="supporter-logo">
               <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
             </div>
-          </div> --}
+          </div>  -->
 
         </div>
       </div>
@@ -346,7 +346,7 @@
             alt=""></a>
         <a href="{{URL::to('client/img/gallery/9.jpg')}}" class="venobox" data-gall="gallery-carousel"><img src="{{URL::to('client/img/gallery/9.jpg')}}"
             alt=""></a>
-        <a href="{{URL::to('client/img/gallery/10.jpg"')}}"" class="venobox" data-gall="gallery-carousel"><img src="{{URL::to('client/img/gallery/10.jpg')}}"
+        <a href="{{URL::to('client/img/gallery/10.jpg')}}" class="venobox" data-gall="gallery-carousel"><img src="{{URL::to('client/img/gallery/10.jpg')}}"
             alt=""></a>
       </div>
 

@@ -47,7 +47,7 @@ h6 {
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
-  color: #3F2E3F;
+  color: #242164;
 }
 
 .main-page {
@@ -625,7 +625,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
   -webkit-animation-delay: 0.8s;
   animation-delay: 0.8s;
-  border: 2px solid #242164;
+  border: 4px solid #242164;
 }
 
 #intro .intro-btn:hover {
@@ -763,7 +763,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: none;
   border-radius: 50px;
   font-weight: 600;
-  background-color: #3F2E3F;
+  background-color: #242164;
   color: #fff;
   padding: 10px 50px;
 }
@@ -1175,7 +1175,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   font-weight: 600;
   font-size: 14px;
   line-height: 2;
-  color: #3F2E3F;
+  color: #242164;
 }
 
 #events {
@@ -1200,7 +1200,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #events .events-btn:hover {
-  background: #3F2E3F;
+  background: #242164;
   color: #fff;
 }
 
