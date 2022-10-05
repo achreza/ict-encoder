@@ -35,7 +35,7 @@
           <div class="col-md-6">
             <div class="details">
               <h2 class="font-weight-bold">Innovation App</h2>
-              <p>Innovative App Idea adalah kompetisi yang bertujuan menantang para peserta
+              <p>Innovation App adalah kompetisi yang bertujuan menantang para peserta
                 untuk dapat menuangkan ide, inovasi dan strategi bisnis dalam mengembangkan suatu aplikasi dan juga
                 dapat memberi manfaat bagi masyarakat luas melalui fungsionalitasnya berbasis Web atau Mobile</p>
 
@@ -218,7 +218,7 @@
                   Idea ?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq6" class="collapse" data-parent="#faq-list">
                   <p>
-                    Terdapat 2 tahapan dalam kompetisi Innovative App Idea, pertama adalah tahap submisi ide, peserta
+                    Terdapat 2 tahapan dalam kompetisi Innovation App, pertama adalah tahap submisi ide, peserta
                     diharapkan mengirimkan file proposal serta bentuk prototype aplikasi yang sudah dibuat pada halaman
                     peserta Gebyar ICT 2022, kedua adalah tahap finalis dimana para peserta finalis akan mempresentasikan hasil
                     prototype aplikasi dihadapan juri.
