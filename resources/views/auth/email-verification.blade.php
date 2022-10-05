@@ -104,12 +104,24 @@
       <![endif]--><div aria-labelledby="mj-column-per-100" class="mj-column-per-100 outlook-group-fix" style="vertical-align:top;display:inline-block;direction:ltr;font-size:13px;text-align:left;width:100%;"><table role="presentation" cellpadding="0" cellspacing="0" width="100%" border="0"><tbody><tr><td style="word-break:break-word;font-size:0px;padding:0px 0px 20px;" align="left"><div style="cursor:auto;color:#737F8D;font-family:Whitney, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-size:16px;line-height:24px;text-align:center;">
             <p><img src="https://i.ibb.co/wQNphcb/logo.png" alt="Party Wumpus" title="None" width="200" style="height: auto;"></p>
 
-  <h2 style="font-family: Whitney, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-weight: 500;font-size: 20px;color: #4F545C;letter-spacing: 0.27px;">Hai {{$tim->nama_tim}},</h2>
-<p>Silahkan verifikasi akun anda dengan menekan tombol dibawah ini :</p>
-
+  <h2 style="font-family: Whitney, Helvetica Neue, Helvetica, Arial, Lucida Grande, sans-serif;font-weight: 500;font-size: 20px;color: #4F545C;letter-spacing: 0.27px;">Halo {{$tim->nama_tim}},</h2>
+  <>Selamat kalian telah bergabung menjadi bagian dari ICT 2022 🙌🏻<br>
+    Setelah melakukan verifikasi, jangan lupa untuk selalu update mengenai informasi terbaru dari kami 🥳<br><br>
+    Silahkan verifikasi akun anda dengan menekan tombol dibawah ini :</p>
           </div></td></tr><tr><td style="word-break:break-word;font-size:0px;padding:10px 25px;" align="center"><table role="presentation" cellpadding="0" cellspacing="0" style="border-collapse:separate;" align="center" border="0"><tbody><tr><td style="border:none;border-radius:3px;color:white;cursor:auto;padding:15px 19px;" align="center" valign="middle" bgcolor="#7289DA"><a href="{{ route('auth.email-verification', $verifyTim->token) }}" style="text-decoration:none;line-height:100%;background:#7289DA;color:white;font-family:Ubuntu, Helvetica, Arial, sans-serif;font-size:15px;font-weight:normal;text-transform:none;margin:0px;" target="_blank">
             Verifikasi email
-          </a></td></tr></tbody></table></td></tr></tbody></table></div><!--[if mso | IE]>
+          </a></td></tr></tbody></table></td></tr></tbody>
+        <p>
+          informasi lebih lanjut : <br>
+          Contact Person : <br>
+          1. Nadia - 0856 0090 3339<br>
+          2. Taufik - 0859 1069 52197<br><br>
+          Website : www.ictencoder.com<br>
+          Instagram : ict_encoder<br>
+          Facebook : Gebyar ICT 2022<br>
+          YouTube : Gebyar ICT 2022<br>
+        </p>
+        </table></div><!--[if mso | IE]>
       </td></tr></table>
       <![endif]--></td></tr></tbody></table></div>
 </body>
