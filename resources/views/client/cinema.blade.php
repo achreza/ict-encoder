@@ -46,7 +46,7 @@
                 <li><a href="https://wa.me/6285748887864">085748887864 (Najah)</a></li>
               </ul>
             </div>
-            <a href="{{URL::to('juknis/Cinematography.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
+            <a href="{{URL::to('juknis/GUIDEBOOK_CINEMATOGRAPHY.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
           </div>
 
         </div>
@@ -69,7 +69,7 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
+              <div class="col-md-2"><time>6 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
                 <p>Peserta Innov App melakukan pendaftaran online melalui website ICT</p>

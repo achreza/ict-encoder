@@ -56,7 +56,7 @@
               UIN Maulana Malik Ibrahim Malang,<br>
               JL. Gajayana No. 50, Dinoyo,<br>
               Kec. Lowokwaru, Kota Malang, Jawa Timur, 65144<br>
-              <strong>Phone:</strong> +62 812-9168-3445<br>
+              <strong>Phone:</strong> +62 8591-0695-2197<br>
               <strong>Email:</strong> ict.encoder@gmail.com<br>
             </p>
 

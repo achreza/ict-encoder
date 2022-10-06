@@ -48,7 +48,7 @@
               </ul>
 
             </div>
-            <a href="{{URL::to('juknis/Innovative%20App%20Idea.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
+            <a href="{{URL::to('juknis/GUIDEBOOK_INNOVATION APP.pdf')}}" class="ict-btn scrollto" target="_blank">Download Juknis</a>
           </div>
 
         </div>
@@ -71,10 +71,10 @@
           <div role="tabpanel" class="col-lg-9 tab-pane fade show active" id="day-1">
 
             <div class="row timeline-item">
-              <div class="col-md-2"><time>1 Okt - 22 Okt 2022</time></div>
+              <div class="col-md-2"><time>6 Okt - 22 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Online Registration</h4>
-                <p>Peserta Innov App melakukan pendaftaran online melalui website ICT</p>
+                <p>Peserta Innovation App melakukan pendaftaran online melalui website ICT</p>
               </div>
             </div>
 
@@ -82,7 +82,7 @@
               <div class="col-md-2"><time>23 Okt 2022</time></div>
               <div class="col-md-10">
                 <h4>Technical Meeting</h4>
-                <p>Peserta Innov App melakukan Technical Meeting Tahap Penyisihan secara online</p>
+                <p>Peserta Innovation App melakukan Technical Meeting Tahap Penyisihan secara online</p>
               </div>
             </div>
 
@@ -106,7 +106,7 @@
               <div class="col-md-2"><time>19 Nov 2022</time></div>
               <div class="col-md-10">
                 <h4>Finalist Announcement</span></h4>
-                <p>Finalis Innov App akan diumumkan di Website dan Instagram ICT 2022</p>
+                <p>Finalis Innovation App akan diumumkan di Website dan Instagram ICT 2022</p>
               </div>
             </div>
 

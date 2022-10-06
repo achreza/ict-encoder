@@ -8,7 +8,7 @@
 			</div>
 			<div class="card-body">
 				<div class="col-md-6 mb-3 mb-lg-0">
-					<a href="{{URL::to('format-proposal/format-proposal-IAI.docx')}}" target="_blank" style="color:red">Download format proposal</a>
+					<a href="{{URL::to('format-proposal/format-proposal-IA.docx')}}" target="_blank" style="color:red">Download format proposal</a>
 					<br>
 				</div>
 				<div class="col-md-6 mb-3 mb-lg-0">

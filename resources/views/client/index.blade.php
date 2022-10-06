@@ -112,7 +112,7 @@
         <div class="col-lg-4">
           <div class="card">
             <div class="card-body">
-              <h5 class="card-title text-muted text-uppercase text-center">Cinematography<br>Competitions</h5>
+              <h5 class="card-title text-muted text-uppercase text-center">Cinematography</h5>
               <div class="icon-events text-center">
                 <img src="{{URL::to('client/img/events/ico-cinema.svg')}}" alt="Cinema">
               </div>
@@ -130,7 +130,7 @@
         <div class="col-lg-4">
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
-              <h5 class="card-title text-muted text-uppercase text-center">Innovation App <br>Idea</h5>
+              <h5 class="card-title text-muted text-uppercase text-center">Innovation App</h5>
 
               <div class="icon-events text-center">
                 <img src="{{URL::to('client/img/events/ico-apps-idea.svg')}}" alt="CDC">
@@ -195,7 +195,7 @@
         <div role="tabpanel" class="col-lg-9 tab-pane fade" id="apps">
 
           <div class="row timeline-item">
-            <div class="col-md-2"><time>1 - 22 Okt 2022</time></div>
+            <div class="col-md-2"><time>6 - 22 Okt 2022</time></div>
             <div class="col-md-10">
               <h4>Online Registration</h4>
               <p>Pendaftaran online melalui website ICT 2022 </p>
@@ -249,7 +249,7 @@
         <div role="tabpanel" class="col-lg-9  tab-pane fade show active" id="cinema">
 
           <div class="row timeline-item">
-            <div class="col-md-2"><time>1 - 22 Okt 2022</time></div>
+            <div class="col-md-2"><time>6 - 22 Okt 2022</time></div>
             <div class="col-md-10">
               <h4>Online Registration</h4>
               <p>Pendaftaran online melalui website ICT 2022 </p>
