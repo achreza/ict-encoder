@@ -14,13 +14,17 @@
 
 body {
   background: #fff;
-  color: #ffffff;
+  color: #2f3138;
   font-family: 'Josefin Sans', sans-serif;
 }
 
 a {
   color: #66E49A;
   transition: 0.5s;
+}
+
+.logo-sponsor {
+  color: #ffffff;
 }
 
 a:hover,
