@@ -124,6 +124,9 @@
               <div class="text-center">
                 <a href="{{route('home.cinema')}}" class="events-btn">Read More</a>
               </div>
+              <div class="text-center">
+                <a href="{{route('auth.register')}}" class="events-btn btn-success" style="background-color: green">Daftar Cinema Disini!</a>
+              </div>
             </div>
           </div>
         </div>
@@ -143,6 +146,9 @@
               <div class="text-center">
                 <a href="{{route('home.iai')}}" class="events-btn">Read More</a>
               </div>
+              <div class="text-center">
+                <a href="{{route('auth.register')}}" class="events-btn btn-success" style="background-color: green">Daftar IAI Disini!</a>
+              </div>
             </div>
           </div>
         </div>
@@ -160,6 +166,9 @@
               <hr>
               <div class="text-center">
                 <a href="{{route('home.drone')}}" class="events-btn">Read More</a>
+              </div>
+              <div class="text-center">
+                <a href="{{route('auth.register')}}" class="events-btn btn-success" style="background-color: green">Daftar Drone Disini!</a>
               </div>
             </div>
           </div>
