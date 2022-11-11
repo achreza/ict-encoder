@@ -38,31 +38,49 @@
       <p class="mb-2 pb-0 mt-4">With :</p>
       <div class="row no-gutters supporters-wrap clearfix">
 
-        OPEN SPONSORSHIP
+        <!-- OPEN SPONSORSHIP -->
 
-        <!-- <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
-            </div>
+        <div class="col-lg-4 col-md-6 col-xs-12">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/1. DINTA.jpg')}}" class="img-fluid" alt="">
           </div>
+        </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
-            </div>
+        <div class="col-lg-4 col-md-6 col-xs-12">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/2. KATEKO.png')}}" class="img-fluid" alt="">
           </div>
+        </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
-            </div>
+        <div class="col-lg-4 col-md-6 col-xs-12">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/3. DIPA.png')}}" class="img-fluid" alt="">
           </div>
+        </div>
 
-          <div class="col-lg-3 col-md-4 col-xs-6">
-            <div class="supporter-logo">
-              <img src="{{URL::to('client/img/sponsor/reja.jpeg')}}" class="img-fluid" alt="">
-            </div>
-          </div>  -->
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/4. peternakan.jpeg')}}" class="img-fluid" alt="">
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/5. dapuryuk.jpg')}}" class="img-fluid" alt="">
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/6. dicoding.png')}}" class="img-fluid" alt="">
+          </div>
+        </div>
+
+        <div class="col-lg-3 col-md-4 col-xs-6">
+          <div class="supporter-logo">
+            <img src="{{URL::to('client/img/sponsor/7. ismaya.png')}}" class="img-fluid" alt="">
+          </div>
+        </div>
 
       </div>
     </div>
